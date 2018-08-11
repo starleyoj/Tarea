@@ -1,0 +1,18 @@
+C:\Users\Peter\Desktop\Progra 4\Clase 03\PuntoVenta\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\Peter\Desktop\Progra 4\Clase 03\PuntoVenta\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\Progra 4\Clase 03\PuntoVenta\Modelo\bin\Debug\Modelo.dll
+C:\Users\Peter\Desktop\Progra 4\Clase 03\PuntoVenta\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Peter\Desktop\Progra 4\Clase 03\PuntoVenta\Modelo\obj\Debug\Modelo.dll
+C:\Users\Peter\Desktop\Progra 4\Clase 03\PuntoVenta\Modelo\obj\Debug\Modelo.pdb
+C:\Users\UMCA\Desktop\Clase 10\PuntoVenta\Modelo\bin\Debug\Modelo.dll
+C:\Users\UMCA\Desktop\Clase 10\PuntoVenta\Modelo\bin\Debug\Modelo.pdb
+C:\Users\UMCA\Desktop\Clase 10\PuntoVenta\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\UMCA\Desktop\Clase 10\PuntoVenta\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\UMCA\Desktop\Clase 10\PuntoVenta\Modelo\obj\Debug\Modelo.dll
+C:\Users\UMCA\Desktop\Clase 10\PuntoVenta\Modelo\obj\Debug\Modelo.pdb
+C:\Users\gollo\Desktop\Clase 11\PuntoVenta\Modelo\bin\Debug\Modelo.dll
+C:\Users\gollo\Desktop\Clase 11\PuntoVenta\Modelo\bin\Debug\Modelo.pdb
+C:\Users\gollo\Desktop\Clase 11\PuntoVenta\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\gollo\Desktop\Clase 11\PuntoVenta\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\gollo\Desktop\Clase 11\PuntoVenta\Modelo\obj\Debug\Modelo.dll
+C:\Users\gollo\Desktop\Clase 11\PuntoVenta\Modelo\obj\Debug\Modelo.pdb

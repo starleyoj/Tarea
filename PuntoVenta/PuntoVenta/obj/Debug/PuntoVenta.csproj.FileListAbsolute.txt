@@ -1,0 +1,96 @@
+C:\Users\UMCA\Desktop\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csprojAssemblyReference.cache
+C:\Users\UMCA\Desktop\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.Properties.Resources.resources
+C:\Users\UMCA\Desktop\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.GenerateResource.cache
+C:\Users\UMCA\Desktop\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.CoreCompileInputs.cache
+C:\Users\UMCA\Desktop\Progra 4\Clase 03\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.exe.config
+C:\Users\UMCA\Desktop\Progra 4\Clase 03\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.exe
+C:\Users\UMCA\Desktop\Progra 4\Clase 03\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.pdb
+C:\Users\UMCA\Desktop\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.exe
+C:\Users\UMCA\Desktop\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.pdb
+C:\Users\UMCA\Desktop\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.FRMPrincipal.resources
+C:\Users\UMCA\Desktop\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.FRMLogin.resources
+C:\Users\UMCA\Desktop\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.FrmProductos.resources
+C:\Users\Peter\Desktop\Progra 4\Clase 03\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.exe.config
+C:\Users\Peter\Desktop\Progra 4\Clase 03\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.exe
+C:\Users\Peter\Desktop\Progra 4\Clase 03\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.pdb
+C:\Users\Peter\Desktop\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csprojAssemblyReference.cache
+C:\Users\Peter\Desktop\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.FRMLogin.resources
+C:\Users\Peter\Desktop\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.FRMPrincipal.resources
+C:\Users\Peter\Desktop\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.FrmProductos.resources
+C:\Users\Peter\Desktop\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.Properties.Resources.resources
+C:\Users\Peter\Desktop\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.GenerateResource.cache
+C:\Users\Peter\Desktop\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.exe
+C:\Users\Peter\Desktop\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.pdb
+C:\Users\Peter\Desktop\Progra 4\Clase 03\PuntoVenta\PuntoVenta\bin\Debug\Modelo.dll
+C:\Users\Peter\Desktop\Progra 4\Clase 03\PuntoVenta\PuntoVenta\bin\Debug\Modelo.pdb
+C:\Users\Peter\Desktop\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.CopyComplete
+C:\Users\UMCA\Desktop\redes\Progra 4\Clase 03\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.exe.config
+C:\Users\UMCA\Desktop\redes\Progra 4\Clase 03\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.exe
+C:\Users\UMCA\Desktop\redes\Progra 4\Clase 03\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.pdb
+C:\Users\UMCA\Desktop\redes\Progra 4\Clase 03\PuntoVenta\PuntoVenta\bin\Debug\ClassLibrary1.dll
+C:\Users\UMCA\Desktop\redes\Progra 4\Clase 03\PuntoVenta\PuntoVenta\bin\Debug\Modelo.dll
+C:\Users\UMCA\Desktop\redes\Progra 4\Clase 03\PuntoVenta\PuntoVenta\bin\Debug\ClassLibrary1.pdb
+C:\Users\UMCA\Desktop\redes\Progra 4\Clase 03\PuntoVenta\PuntoVenta\bin\Debug\Modelo.pdb
+C:\Users\UMCA\Desktop\redes\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csprojAssemblyReference.cache
+C:\Users\UMCA\Desktop\redes\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.FRMLogin.resources
+C:\Users\UMCA\Desktop\redes\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.FRMPrincipal.resources
+C:\Users\UMCA\Desktop\redes\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.FrmProductos.resources
+C:\Users\UMCA\Desktop\redes\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.Properties.Resources.resources
+C:\Users\UMCA\Desktop\redes\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.GenerateResource.cache
+C:\Users\UMCA\Desktop\redes\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.CoreCompileInputs.cache
+C:\Users\UMCA\Desktop\redes\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.CopyComplete
+C:\Users\UMCA\Desktop\redes\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.exe
+C:\Users\UMCA\Desktop\redes\Progra 4\Clase 03\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.pdb
+C:\Users\UMCA\Desktop\Clase 07\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.exe.config
+C:\Users\UMCA\Desktop\Clase 07\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.exe
+C:\Users\UMCA\Desktop\Clase 07\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.pdb
+C:\Users\UMCA\Desktop\Clase 07\PuntoVenta\PuntoVenta\bin\Debug\ClassLibrary1.dll
+C:\Users\UMCA\Desktop\Clase 07\PuntoVenta\PuntoVenta\bin\Debug\Modelo.dll
+C:\Users\UMCA\Desktop\Clase 07\PuntoVenta\PuntoVenta\bin\Debug\ClassLibrary1.pdb
+C:\Users\UMCA\Desktop\Clase 07\PuntoVenta\PuntoVenta\bin\Debug\Modelo.pdb
+C:\Users\UMCA\Desktop\Clase 07\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csprojAssemblyReference.cache
+C:\Users\UMCA\Desktop\Clase 07\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.FRMLogin.resources
+C:\Users\UMCA\Desktop\Clase 07\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.FRMPrincipal.resources
+C:\Users\UMCA\Desktop\Clase 07\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.FrmProductos.resources
+C:\Users\UMCA\Desktop\Clase 07\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.Properties.Resources.resources
+C:\Users\UMCA\Desktop\Clase 07\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.GenerateResource.cache
+C:\Users\UMCA\Desktop\Clase 07\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.CoreCompileInputs.cache
+C:\Users\UMCA\Desktop\Clase 07\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.CopyComplete
+C:\Users\UMCA\Desktop\Clase 07\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.exe
+C:\Users\UMCA\Desktop\Clase 07\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.pdb
+C:\Users\UMCA\Desktop\Clase 10\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.exe.config
+C:\Users\UMCA\Desktop\Clase 10\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.exe
+C:\Users\UMCA\Desktop\Clase 10\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.pdb
+C:\Users\UMCA\Desktop\Clase 10\PuntoVenta\PuntoVenta\bin\Debug\ClassLibrary1.dll
+C:\Users\UMCA\Desktop\Clase 10\PuntoVenta\PuntoVenta\bin\Debug\Modelo.dll
+C:\Users\UMCA\Desktop\Clase 10\PuntoVenta\PuntoVenta\bin\Debug\ClassLibrary1.pdb
+C:\Users\UMCA\Desktop\Clase 10\PuntoVenta\PuntoVenta\bin\Debug\Modelo.pdb
+C:\Users\UMCA\Desktop\Clase 10\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csprojAssemblyReference.cache
+C:\Users\UMCA\Desktop\Clase 10\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.FRMLogin.resources
+C:\Users\UMCA\Desktop\Clase 10\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.FRMPrincipal.resources
+C:\Users\UMCA\Desktop\Clase 10\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.FrmProductos.resources
+C:\Users\UMCA\Desktop\Clase 10\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.Properties.Resources.resources
+C:\Users\UMCA\Desktop\Clase 10\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.GenerateResource.cache
+C:\Users\UMCA\Desktop\Clase 10\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.CoreCompileInputs.cache
+C:\Users\UMCA\Desktop\Clase 10\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.CopyComplete
+C:\Users\UMCA\Desktop\Clase 10\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.exe
+C:\Users\UMCA\Desktop\Clase 10\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.pdb
+C:\Users\gollo\Desktop\Clase 11\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.exe.config
+C:\Users\gollo\Desktop\Clase 11\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.exe
+C:\Users\gollo\Desktop\Clase 11\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.pdb
+C:\Users\gollo\Desktop\Clase 11\PuntoVenta\PuntoVenta\bin\Debug\ClassLibrary1.dll
+C:\Users\gollo\Desktop\Clase 11\PuntoVenta\PuntoVenta\bin\Debug\Modelo.dll
+C:\Users\gollo\Desktop\Clase 11\PuntoVenta\PuntoVenta\bin\Debug\ClassLibrary1.pdb
+C:\Users\gollo\Desktop\Clase 11\PuntoVenta\PuntoVenta\bin\Debug\Modelo.pdb
+C:\Users\gollo\Desktop\Clase 11\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csprojAssemblyReference.cache
+C:\Users\gollo\Desktop\Clase 11\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.FRMLogin.resources
+C:\Users\gollo\Desktop\Clase 11\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.FRMPrincipal.resources
+C:\Users\gollo\Desktop\Clase 11\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.FrmProductos.resources
+C:\Users\gollo\Desktop\Clase 11\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.FRMClientes.resources
+C:\Users\gollo\Desktop\Clase 11\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.Properties.Resources.resources
+C:\Users\gollo\Desktop\Clase 11\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.GenerateResource.cache
+C:\Users\gollo\Desktop\Clase 11\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.CoreCompileInputs.cache
+C:\Users\gollo\Desktop\Clase 11\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.CopyComplete
+C:\Users\gollo\Desktop\Clase 11\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.exe
+C:\Users\gollo\Desktop\Clase 11\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.pdb
